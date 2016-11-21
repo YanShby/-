@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>Hello, iOS!</string>
+		<key>time</key>
+		<string>前天 10:27</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>一般读者对我国汉字的构造法都有所了解。汉字属于拼形文字。英语科技术语的构词法也有类似的道理。</string>
+		<key>time</key>
+		<string>前天 10:28</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>所不同的在于：它们是拼音文字，不是由偏旁构成的，而是由若干个（通常是一，两个或三，四个词素（word elements）构成的。所谓“词素”，是指构成一个词的各个基本组成单位，它是由若干个音节构成的。各个词素都有其语言上一定的来源。</string>
+		<key>time</key>
+		<string>昨天 20:05</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>上面这三个词：prewar, postwar, interwar拆出来的pre, post, inter, war都是词素。</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>这里面的“war”，叫做词根(root)。由于“war”这个词根是从条顿语（Teutonic）演变而来的，所以也称为条顿词根(Teutonic root)。同样地，如果一个词根是从拉丁语或希腊语来的。便称为拉丁词根（Latin root）或希腊词根(Greek root)。</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>凡是词根，都有其本身的含义。例如这个war字，其本身的含义是“战争”。</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>上面那些pre-, post-, inter-, 叫做前缀（prefix），是放到词根的前面，和词根结合起来构成一个派生词。</string>
+		<key>time</key>
+		<string>昨天 20:11</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>😂😂😂😂😂😂😂😂😂</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>（￣︶￣）↗ (●´З｀●)</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+</array>
+</plist>
